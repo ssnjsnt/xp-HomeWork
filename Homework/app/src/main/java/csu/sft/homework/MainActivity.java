@@ -1,4 +1,4 @@
-package csu.sft.xp;
+package csu.sft.homework;
 
 import android.os.Bundle;
 
@@ -11,8 +11,6 @@ import androidx.viewpager2.widget.ViewPager2;
 
 import com.google.android.material.tabs.TabLayout;
 import com.google.android.material.tabs.TabLayoutMediator;
-
-import csu.sft.homework.R;
 
 public class MainActivity extends AppCompatActivity {
     private ViewPager2 viewPager;

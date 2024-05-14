@@ -1,4 +1,4 @@
-package csu.sft.xp;
+package csu.sft.homework;
 
 import android.os.Bundle;
 import android.view.LayoutInflater;
@@ -8,8 +8,6 @@ import android.view.ViewGroup;
 import androidx.fragment.app.Fragment;
 
 import com.airbnb.lottie.LottieAnimationView;
-
-import csu.sft.homework.R;
 
 public class LoadingFragment extends Fragment {
 
